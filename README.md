@@ -27,4 +27,5 @@ What I can tell you about myself is that I am a programmer with a great deal of 
 </p>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://www.linkedin.com/in/petarstefanovski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="HridoyHazard" height="30" width="40" /></a>
 <a href="https://twitter.com/stefanovski_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HridoyHazard" height="30" width="40" /></a>
