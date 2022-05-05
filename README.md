@@ -20,7 +20,7 @@ What I can tell you about myself is that I am a programmer with a great deal of 
 
 <p align="center">
 <a href="https://github.com/petarstefanovski">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=petarstefanovski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petarstefanovski&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=petarstefanovski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petarstefanovski&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
