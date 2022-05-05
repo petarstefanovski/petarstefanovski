@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Petar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarstefanovski" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petarstefanovski" alt="Petar Stefanovski" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -25,3 +25,6 @@ What I can tell you about myself is that I am a programmer with a great deal of 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petarstefanovski&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://twitter.com/stefanovski_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HridoyHazard" height="30" width="40" /></a>
