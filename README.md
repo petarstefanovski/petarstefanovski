@@ -31,6 +31,7 @@ What I can tell you about myself is that I am a programmer with a great deal of 
 <a href="https://twitter.com/stefanovski_p" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/petarstefanovski/petarstefanovski/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+
 </p>
